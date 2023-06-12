@@ -1,0 +1,6 @@
+2023-06-09 11:42:07,024 :INFO : Pytest.baseClass :Ole
+2023-06-09 11:42:07,026 :DEBUG : Pytest.test_logging :A debug method is executed
+2023-06-09 11:42:07,026 :INFO : Pytest.test_logging :Information statement
+2023-06-09 11:42:07,026 :WARNING : Pytest.test_logging :Not critical issue occured
+2023-06-09 11:42:07,026 :ERROR : Pytest.test_logging :Critical issue occured
+2023-06-09 11:42:07,027 :CRITICAL : Pytest.test_logging :Critical issue
